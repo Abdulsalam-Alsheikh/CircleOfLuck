@@ -13,7 +13,7 @@ This project is an electronic circuit that randomly selects a winner from 12 par
 
 ## Project Files
 
-- **Proteus Simulation File**: A simulation of the circuit to test the functionality before actual implementation.
+- **Proteus Simulation File**: A simulation of the circuit to test the functionality before actual implementation **note**( The Arduino code will not work directly here on the simulation due to the adopted method of generating the random number you must change the method of generating the random number before the simulation ) .
 - **Arduino Code**: The code used to control the selection process and light up the segments.
 - **PCB Design**: A layout of the PCB ready for manufacturing, including all the components and connections.
 

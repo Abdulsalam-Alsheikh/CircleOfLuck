@@ -35,5 +35,8 @@ The circuit is designed to randomly select a number from 1 to 12 using an LED on
 3. Power the circuit through the power supply jack.
 4. The circuit will randomly select a number and light up the corresponding segment.
 
-Watch the project on link .
+Watch the project on [youtube](https://youtu.be/4vKIFw7FxGo) .
+![٢٠٢٢١١٢١_٠١٠٨٥٥](https://github.com/user-attachments/assets/20ba46a0-cc94-4d3f-a095-497c375b07b8)
+![٢٠٢٢١١١٧_٢٠١٩٢٢](https://github.com/user-attachments/assets/c610e9c0-b2b2-489e-a0d6-13e771b03f9d)
+
 
